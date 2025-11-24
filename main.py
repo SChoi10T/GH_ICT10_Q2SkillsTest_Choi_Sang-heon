@@ -40,5 +40,3 @@ def dance_information(e):
 
     dance_club = dict(zip(dance_keys, dance_values))
     display(dance_club, target='information')
-
-    dance_club = document.getElementById('dance_club').value
